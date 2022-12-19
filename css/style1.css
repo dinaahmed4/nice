@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.cup {
+    font-family: cursive;
+    color: rgb(226, 208, 46);
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.heart {
+    font-size: 50px;
+    color: red;
+    margin-bottom: 5px;
+}
